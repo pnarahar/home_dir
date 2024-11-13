@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/pnarahar/useful_scripts/scripts/src/dxm/rtl'
+let g:netrw_dirhist_2='/Users/pnarahar/sreg/rtl/FILES49'
+let g:netrw_dirhist_1='/Users/pnarahar/edmp/rtl'
+let g:netrw_dirhist_0='/Users/pradeepnaraharirao/cgc_blk'
+let g:netrw_dirhist_9='/Users/pradeepnaraharirao/generic_modules'
+let g:netrw_dirhist_8='/Users/pradeepnaraharirao'
+let g:netrw_dirhist_7='/Users/pradeepnaraharirao/common_cells_bolagno'
+let g:netrw_dirhist_6='/Users/pradeepnaraharirao/common/rtl/fproc/data_cache'
+let g:netrw_dirhist_5='/Users/pradeepnaraharirao/uvm_seq/sequencers/cm_trickbox_virtual_sequencer'
+let g:netrw_dirhist_4='/Users/pradeepnaraharirao/EE_study/dia/rtl/hlr_gen_chk'
